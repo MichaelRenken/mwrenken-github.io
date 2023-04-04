@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am making a demo public git hub site.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This has even more information
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mwrenken@gmail.com](mailto:mwrenken@gmail.com)
